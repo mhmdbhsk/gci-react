@@ -1,6 +1,8 @@
 {
   "name": "gci-react",
   "version": "0.1.0",
+  "description": "Simple React App for OpenMRS Google Code-In submissions",
+  "repository": "https://github.com/mhmdbhsk/gci-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
