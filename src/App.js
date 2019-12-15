@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={largeLogo} style={{ width: 400 }} />
+          <img src={largeLogo} style={{ width: 300 }} />
         </a>
         <code>GCI ID : Muhammad Bhaska</code>
       </header>
